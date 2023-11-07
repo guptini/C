@@ -1,19 +1,4 @@
-/*
- *	dungeon.c
- *	Douglas L. Jones
- *	University of Illinois at Urbana-Champaign
- *	September 29, 2012
- *
- *	(c) 2012 by Douglas L. Jones
- *	This work is made available according to the 
- *             Creative Commons "Attribution" license
- *	http://creativecommons.org/licenses/by/3.0/
- *
- *      edited by S.S. Lumetta, 11 October 2012
- *      edited by Yuchen He, March 2015
- *
- *  dungeon.c: a simple maze game
- */
+
 #include <stdio.h>
 
 /* Define constants */
